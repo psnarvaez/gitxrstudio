@@ -1,4 +1,4 @@
 # gitxrstudio
 connecting rstudio to git
 
-print ("Trying this again.")
+For .md files no need to use the code?
